@@ -1,0 +1,9 @@
+git init --> cria repositório local
+touch ap1.txt --> cria arquivo
+git remote add --> conecta repositório local ao remoto
+ls --> lista os arquivos e/ou pastas dentro da pasta
+git add . --> adiciona os arquivos para a "sacola"
+git commit -m "Enviando o primeiro commit ap1" --> fecha sacola 
+e coloca etiqueta
+git push --set-upstream origin master --> envia para o repositório
+remoto
