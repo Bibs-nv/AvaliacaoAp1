@@ -1,0 +1,5 @@
+touch ap1-1.txt
+ls
+git add .
+git commit -m "Enviando o segundo commit ap1"
+git push --set-upstream origin master
